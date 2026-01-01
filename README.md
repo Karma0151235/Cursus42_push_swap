@@ -1,2 +1,8 @@
-# Cursus42_push_swap
-This project contains 42Cursus' push_swap, aiming to sort a random set of numbers with the lowest possible number of actions.
+*This project has been created as part of the 42 curriculum by stee*
+
+# Description
+
+# Instructions
+
+# Resources
+
